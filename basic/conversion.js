@@ -25,8 +25,9 @@ console.log(1+2+"1");// priorites of first number guide line
 */
 
 
-
+/*
 //incriment
 let v=100
 ++v;
 console.log(v);
+*/

@@ -30,6 +30,6 @@ const url = "https://hitesh.com/hitesh%20choudhary"
 
 console.log(url.replace('%20', '-'))
 
-console.log(url.includes('sundar'))
+console.log(url.includes('sundar')) // is sundar present in this url
 
-console.log(gameName.split('-'));
+console.log(gameName.split('-'));//split into different parts  using _ or seperate
